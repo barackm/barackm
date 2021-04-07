@@ -26,7 +26,9 @@ fascinated</b>
   
 </p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barackm&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barackm&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <hr>
 
