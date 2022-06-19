@@ -16,11 +16,11 @@
 <p align="center">
   <em>
    Well, This is ME, Baraka Mukelenga, a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
-    <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
+    <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="8px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="10px">&nbsp.
+    <b>grow</b>and 
+    <b>excel</b>&nbsp.
   </em> 
   <br>
   
