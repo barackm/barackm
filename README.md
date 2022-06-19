@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Baraka Mukelenga</h1>
+<h1 align="center">Hi, I'm Baraka Mukelenga</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/baraka-mukelenga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 <p align="center">
   <em>
    Well, This is ME, Baraka Mukelenga, a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
-    <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
+    <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="8px">and 
@@ -25,10 +25,6 @@ fascinated</b>
   <br>
   
 </p>
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barackm&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barackm&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <hr>
 
